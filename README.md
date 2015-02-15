@@ -1,4 +1,5 @@
-Ben Neely
-Cheryl Herrick
-Craig Adesina
-Sylvia Lee holla! 
+* Ben Neely
+* Cheryl Herrick
+* Craig Adesina
+* Dante Solis 
+* Sylvia Lee holla!

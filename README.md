@@ -4,3 +4,5 @@
 * Dante Solis 
 * Sylvia Lee holla!
 * Andrew Holdun
+* Alberto Galarza
+

@@ -14,4 +14,5 @@
 * Sean Mulligan
 * Alan Carden
 * Jake Wengroff
+* Jay Fisher
 

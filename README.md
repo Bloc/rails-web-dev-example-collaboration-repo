@@ -16,4 +16,4 @@
 * Julia Park
 * Jake Wengroff
 * Jay Fisher
-
+* Jonathan Daves 

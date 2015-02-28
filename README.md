@@ -15,4 +15,5 @@
 * Alan Carden
 * Julia Park
 * Jake Wengroff
+* Jay Fisher
 

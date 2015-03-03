@@ -19,6 +19,8 @@
 * jdgsb  
 * Sebastian
 * Chad Crawford
+* Ryan Haase
+* Vinodhini Ravikumar
 * Joel Ramsey
 * Vinodhini Ravikumar
 * Chip Neff

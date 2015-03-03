@@ -19,8 +19,6 @@
 * jdgsb  
 * Sebastian
 * Chad Crawford
-<<<<<<< HEAD
 * Ryan Haase
-=======
 * Vinodhini Ravikumar
->>>>>>> upstream/master
+

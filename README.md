@@ -26,3 +26,4 @@
 * Chip Neff
 * Eric Park
 * Joel White
+* Jean-Denis Vauguet

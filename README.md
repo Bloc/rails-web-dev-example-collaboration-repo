@@ -27,3 +27,4 @@
 * Eric Park
 * Joel White
 * Jean-Denis Vauguet
+* Sarah Merekar

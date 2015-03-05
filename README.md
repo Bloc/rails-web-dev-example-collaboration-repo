@@ -29,3 +29,4 @@
 * Jean-Denis Vauguet
 * Sarah Merekar
 * Emily Cunningham
+* Jonathan MacDonald

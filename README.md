@@ -28,3 +28,4 @@
 * Joel White
 * Jean-Denis Vauguet
 * Sarah Merekar
+* Emily Cunningham

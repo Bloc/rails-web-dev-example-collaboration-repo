@@ -30,3 +30,4 @@
 * Sarah Merekar
 * Emily Cunningham
 * Jonathan MacDonald
+* Eric Love

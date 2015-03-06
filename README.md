@@ -30,4 +30,8 @@
 * Sarah Merekar
 * Emily Cunningham
 * Jonathan MacDonald
+* Eric Love
+* Foster Kizer
+* Noel Deguzman
 * Rachel Colby
+

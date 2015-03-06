@@ -33,3 +33,4 @@
 * Eric Love
 * Foster Kizer
 * Noel Deguzman
+* Cheryl Troup

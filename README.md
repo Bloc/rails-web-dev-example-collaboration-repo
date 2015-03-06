@@ -31,3 +31,4 @@
 * Emily Cunningham
 * Jonathan MacDonald
 * Eric Love
+* Foster Kizer

@@ -32,3 +32,4 @@
 * Jonathan MacDonald
 * Eric Love
 * Foster Kizer
+* Noel Deguzman

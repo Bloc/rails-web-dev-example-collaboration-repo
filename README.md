@@ -25,6 +25,7 @@
 * Vinodhini Ravikumar
 * Chip Neff
 * Eric Park
+* Victor Davis
 * Joel White
 * Jean-Denis Vauguet
 * Sarah Merekar

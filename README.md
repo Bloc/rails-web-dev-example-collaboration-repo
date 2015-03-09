@@ -39,3 +39,4 @@
 * Bradley Gohman
 * Theresa Crupi
 * Dan William
+* Chris Thompson

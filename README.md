@@ -41,9 +41,6 @@
 * Dan William
 * Chris Thompson
 * Amber Dubin
-<<<<<<< HEAD
-* Cody Chang
-=======
+* Cody z Chang
 * Paul Henke
 * Stan THE MAN Peev
->>>>>>> 9180646ca49a05bc9d1a5b1c5c85c0468d11598f

@@ -45,3 +45,4 @@
 * Paul Henke
 * Stan THE MAN Peev
 * brian stone
+* Diego Lafuente

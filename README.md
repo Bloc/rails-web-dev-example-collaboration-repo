@@ -16,4 +16,5 @@
 * Julia Park
 * Jake Wengroff
 * Jay Fisher
+* Diego Lafuente
 

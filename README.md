@@ -17,10 +17,6 @@
 * Julia Park
 * Jake Wengroff
 * Jay Fisher
-<<<<<<< HEAD
-* Diego Lafuente
-
-=======
 * jdgsb  
 * Sebastian
 * Chad Crawford
@@ -49,4 +45,4 @@
 * Paul Henke
 * Stan THE MAN Peev
 * brian stone
->>>>>>> 9fba399b8cfbd01f9a7d5cc49a11f90200661f36
+* Diego Lafuente

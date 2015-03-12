@@ -1,9 +1,10 @@
+* José Rosado
 * Andrew Anderson
 * Tish Snyder
 * Ben Neely
 * Cheryl Herrick
 * Craig Adesina
-* Dante Solis 
+* Dante Solis
 * Sylvia Lee holla!
 * Andrew Holdun
 * Diane Kulseth
@@ -17,7 +18,7 @@
 * Julia Park
 * Jake Wengroff
 * Jay Fisher
-* jdgsb  
+* jdgsb
 * Sebastian
 * Chad Crawford
 * Ryan Haase

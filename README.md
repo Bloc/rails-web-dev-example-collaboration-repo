@@ -53,3 +53,4 @@
 * Liz Green
 * Alexandre Di Domenico
 * Steven Filler
+* Hugo Carlos Borges Pinto

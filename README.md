@@ -53,6 +53,7 @@
 * Wen Bo Xie
 * Liz Green
 * Alexandre Di Domenico
+* David Yerger
 * Steven Filler
 * Hugo Carlos Borges Pinto
 * Steve Sax

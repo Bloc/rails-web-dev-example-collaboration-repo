@@ -61,3 +61,4 @@
 * Viral Amin
 * Richie Austerberry
 * Alex Irwin
+* Cecily Cruz

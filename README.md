@@ -1,3 +1,4 @@
+* Catherine Schlensker 
 * Robert Cox
 * Adrian Munoz
 * José Rosado

@@ -61,5 +61,6 @@
 * Viral Amin
 * Richie Austerberry
 * Alex Irwin
+* Cecily Cruz
 * David Schiele
 * Souriya Sengphet

@@ -72,4 +72,5 @@
 * Brock Donovan
 * Eric Patiño
 * Fabian
-* Imad Jerra
+* Imad
+* Chris

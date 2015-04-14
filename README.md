@@ -1,3 +1,4 @@
+* Joseph Caintic
 * Igor Eydman
 * Catherine Schlensker 
 * Robert Cox

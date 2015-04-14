@@ -85,3 +85,4 @@
 * Oktober Comstock
 * Anish Hallan
 * Erin Mohat
+* Carl Bernardo

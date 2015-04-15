@@ -1,3 +1,4 @@
+* Wes Lucas
 * Joseph Caintic
 * Igor Eydman
 * Catherine Schlensker 

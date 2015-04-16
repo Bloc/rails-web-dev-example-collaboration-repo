@@ -87,3 +87,4 @@
 * Anish Hallan
 * Erin Mohat
 * Carl Bernardo
+* Gonzalo Gallardo

@@ -90,3 +90,4 @@
 * Gonzalo Gallardo
 * Alex Kirsopp
 * Brian Hinds
+* Jack "Jax" Schultz

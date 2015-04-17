@@ -89,3 +89,4 @@
 * Carl Bernardo
 * Gonzalo Gallardo
 * Alex Kirsopp
+* Brian Hinds

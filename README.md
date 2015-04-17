@@ -88,3 +88,4 @@
 * Erin Mohat
 * Carl Bernardo
 * Gonzalo Gallardo
+* Alex Kirsopp

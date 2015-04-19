@@ -91,3 +91,4 @@
 * Alex Kirsopp
 * Brian Hinds
 * Jack "Jax" Schultz
+* Ross Badgett

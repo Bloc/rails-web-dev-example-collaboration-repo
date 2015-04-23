@@ -97,4 +97,6 @@
 Mike Lacey
 * Junko Werner
 kidusyohans
+* Jeff D Rogers
+* Fong Fan
 * Randi Cagle

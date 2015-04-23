@@ -1,4 +1,4 @@
-﻿* Wes Lucas
+* Wes Lucas
 * Joseph Caintic
 * Igor Eydman
 * Catherine Schlensker 
@@ -98,3 +98,4 @@ Mike Lacey
 * Junko Werner
 kidusyohans
 * Jeff D Rogers
+* Fong Fan

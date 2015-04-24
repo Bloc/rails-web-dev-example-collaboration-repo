@@ -1,3 +1,4 @@
+﻿* Alberto Wu
 * Wes Lucas
 * Joseph Caintic
 * Igor Eydman
@@ -95,4 +96,9 @@
 * lopezdp
 * Bryan Porras
 Mike Lacey
+* Junko Werner
+kidusyohans
+* Jeff D Rogers
+* Fong Fan
+* Randi Cagle
 * Randy Richards

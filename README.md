@@ -1,4 +1,4 @@
-﻿*Alberto Wu*
+﻿* Alberto Wu
 * Wes Lucas
 * Joseph Caintic
 * Igor Eydman

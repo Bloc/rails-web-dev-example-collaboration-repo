@@ -1,4 +1,4 @@
-﻿* Alberto Wu
+* Alberto Wu
 * Wes Lucas
 * Joseph Caintic
 * Igor Eydman
@@ -102,4 +102,5 @@ kidusyohans
 * Fong Fan
 * Randi Cagle
 * Tim Ryan
-* Melanie Eitel
+* Melanie Eital 
+* Zayne Berndt

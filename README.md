@@ -52,6 +52,7 @@
 * Amber Dubin
 * Cody z Chang
 * Paul Henke
+* Patrick Hofer
 * Stan THE MAN Peev
 * brian stone
 * Diego Lafuente

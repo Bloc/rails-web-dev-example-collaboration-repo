@@ -122,4 +122,6 @@ kidusyohans
 * Kelly Mason
 * Brendan McGivern
 * Sanjay Patel
+* Andrea Kao
+* Jackie Turner
 * Justin Grant

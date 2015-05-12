@@ -2,7 +2,7 @@
 * Wes Lucas
 * Joseph Caintic
 * Igor Eydman
-* Catherine Schlensker 
+* Catherine Schlensker
 * Robert Cox
 * Adrian Munoz
 * José Rosado
@@ -104,7 +104,7 @@ kidusyohans
 * Fong Fan
 * Randi Cagle
 * Tim Ryan
-* Melanie Eital 
+* Melanie Eital
 * Zayne Berndt
 * Charlie Ripple
 * Hardip Singh
@@ -121,3 +121,4 @@ kidusyohans
 * Kevin Osagie
 * Kelly Mason
 * Brendan McGivern
+* Sanjay Patel
